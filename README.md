@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omardev47" alt="omardev47" /></a> </p>
 
-- 🌱 I’m currently learning **Power BI & Tableau**
+- 🌱 I’m currently learning **Power BI & PostgresSql**
 
-- 💬 Ask me about **HTML JS MySQL React**
+- 💬 Ask me about **EXCEL POWER BI  MySQL**
 
 - 📫 How to reach me **omarbourou47@gmail.com**
 
